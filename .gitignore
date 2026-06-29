@@ -1,0 +1,5 @@
+# 凭据（WiFi / MQTT / 设备令牌）—— 切勿提交
+secrets.h
+
+# macOS
+.DS_Store
